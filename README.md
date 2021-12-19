@@ -1,4 +1,5 @@
-# SPP_Team_Project
+# 소프트웨어구현패턴 Term Project
+
 2020년도 2학기 1학년 소프트웨어구현패턴 프로젝트 (Structure, File I/0, LinkedList, Checksum)
 
 - 이 프로젝트는 C언어의 핵심이라고 할 수 있는 구조체, File I/0 그리고 Singly Linked List를 학습하기 위한 Project 입니다.
